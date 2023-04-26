@@ -1,1 +1,0 @@
-var posts=["2023/04/25/hello-world/","2023/04/25/test-my-site/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
