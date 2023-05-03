@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>梦莱的小屋</title>
+  
+  
+  <link href="http://ghost200156.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://ghost200156.github.io/"/>
+  <updated>2023-05-02T08:34:58.557Z</updated>
+  <id>http://ghost200156.github.io/</id>
+  
+  <author>
+    <name>梦莱</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我又回来了</title>
+    <link href="http://ghost200156.github.io/2023/05/02/page/"/>
+    <id>http://ghost200156.github.io/2023/05/02/page/</id>
+    <published>2023-05-02T07:15:54.000Z</published>
+    <updated>2023-05-02T08:34:58.557Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;时隔半年，把博客又建回来了&quot;&gt;&lt;a href=&quot;#时隔半年，把博客又建回来了&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活记录" scheme="http://ghost200156.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="再一次" scheme="http://ghost200156.github.io/tags/%E5%86%8D%E4%B8%80%E6%AC%A1/"/>
+    
+  </entry>
+  
+</feed>
